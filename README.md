@@ -31,7 +31,7 @@ AWS · Terraform · Docker · Kubernetes · GitHub Actions · CI/CD · Monitorin
 **Lang & Scripting:** Python · Bash  
 **Data & Storage:** DynamoDB · RDS · S3  
 **Observability:** Prometheus · Grafana · CloudWatch  
-**Other:** Linux · Nginx · Git · VS Code · Postman
+**Other:** Linux · Nginx · Git · VS Code 
 
 ---
 
