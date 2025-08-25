@@ -13,13 +13,13 @@ I specialize in building **scalable, secure, and automated cloud solutions**. Wi
 - **Game with CD to S3:** GitHub → CodePipeline → S3 static hosting (auto deploy on commit)
 
 ## 🧠 Currently Learning
-Kubernetes networking & HPA · AWS networking (TGW/VPC) · Python for automation · German (B2→C1)
+Kubernetes networking & HPA · AWS networking (TGW/VPC) · Python for automation · German (C1)
 
 ## 💬 Ask Me About
 AWS · Terraform · Docker · Kubernetes · GitHub Actions · CI/CD · Monitoring (Prom/Graf/CloudWatch)
 
 ## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/buraksefil) · (email adresini ekleyebilirsin)
+[LinkedIn](https://www.linkedin.com/in/buraksefil)
 
 ---
 
